@@ -1,4 +1,4 @@
-# <span style="color: orange;">💫 About Me:</span>
+# 💫 About Me:
 🎮 Gamer.<br>🎬 Video editing enthusiast.<br>📚 Pursuing a degree in software analysis and development.<br>🚀 Quick learner.<br>🔧 Working on challenging projects.<br>👥 Eager to collaborate on innovations.<br>🤝 Seeking help to enhance knowledge.<br>📖 Constantly learning.<br>💻 Ask me about technology.<br>🌌 Enthusiast of science and fiction.
 
 
