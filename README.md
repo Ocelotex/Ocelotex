@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocelotex&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=ocelotex&color=orange)
